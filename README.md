@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditi Rawat
 - 👀 I’m interested in coding
 - 💻 I'm a Full Stack web developer.
-- 🌱 I’m currently exploring by web3. 
+- 🌱 I’m currently exploring web3. 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
